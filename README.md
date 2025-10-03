@@ -1,8 +1,11 @@
-コインチェック株式会社<br>
-開発・AI本部 事業統括部 Applied AI G グループリーダー<br>
-菅田 将輝<br>
-SUGETA MASAKI<br>
-<br>
-Email：masaki.sugeta@coincheck.com<br>
-X：[@sugemasa](https://x.com/sugemasa)
+# 菅田 将輝 (SUGETA MASAKI)の Profile
 
+### 所属
+**コインチェック株式会社**  
+開発・AI本部 事業統括部 Applied AI G  
+グループリーダー
+
+### 連絡先
+- 📧 Email: masaki.sugeta@coincheck.com
+- 🐦 X: [@sugemasa](https://x.com/sugemasa)
+- 📝 note: [asamoyan](https://note.com/asamoyan)
