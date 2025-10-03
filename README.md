@@ -33,12 +33,13 @@
   - 金融庁系や監査系のヘビーな集計対応、依頼の要件整理、問い合わせの問題切り分け
   - 社内システムのメンテナンスや改修、機能追加
 - 2024年10月以降
-  - [認定スクラムマスターの資格を取得して、外部の勉強会に出たり]([url](https://speakerdeck.com/coincheck_recruit/sukuramucheng-shou-du-seruhutietukuturuwozuo-tutede-taxue-bitosonohuo-yong-fa))
+  - 認定スクラムマスターの資格を取得して、[外部の勉強会](https://speakerdeck.com/coincheck_recruit/sukuramucheng-shou-du-seruhutietukuturuwozuo-tutede-taxue-bitosonohuo-yong-fa)に出たり
   - 社内の人事評価の記入をハックするプロンプトを作って社内で標準化したり
   - 生成AIエバンジェリスト的活動をしたり、AI駆動開発の進行役やガイドライン作り
  
 ## 興味や関心があること
 
 - 自然言語でのプロンプトエンジニアリング
+- 組織のコンテキストエンジニアリングの強化
 - 生成AIを使った業務効率化やシステム構築・業務の再設計
-- 組織のアジャイル化
+- Cursor や codex / claude code の使い倒し術の模索
