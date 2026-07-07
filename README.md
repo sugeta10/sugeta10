@@ -2,7 +2,6 @@
 
 ## 連絡先
 
-- 📧 Email: masaki.sugeta@coincheck.com
 - 🐦 X: [@sugemasa](https://x.com/sugemasa)
 - 📝 note: [asamoyan](https://note.com/asamoyan)
 
